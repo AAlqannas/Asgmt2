@@ -6,7 +6,6 @@ Arjwan Saud Alqarni:2110353
 -Name of constructor
 Atheer Alqannas:2005879
 -Variable access modifiers
--Closing the file in the finally block
 -Adding missing curly braces
 -Initializing BufferedWriter variable
 Taif bader:2110449
